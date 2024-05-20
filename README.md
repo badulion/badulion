@@ -2,7 +2,7 @@
 
 PhD student in Computer Science 💻 and AI 🤖 from Germany 🇩🇪 
 
-Visit my [Homepage@Uni Wuerzburg](https://www.informatik.uni-wuerzburg.de/datascience/staff/dulny/) ![Uni Logo](/assets/unimarke_Vektor_CMYK.svg){:height="10px" width="10px"}
+Visit my [Homepage@Uni Wuerzburg](https://www.informatik.uni-wuerzburg.de/datascience/staff/dulny/) <img src="/assets/unimarke_Vektor_CMYK.svg" width="10" height="10">
 
 Driven by curiosity 💡 and fueled by coffee ☕
 
