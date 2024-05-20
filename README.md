@@ -2,6 +2,8 @@
 
 PhD student in Computer Science 💻 and AI 🤖 from Germany 🇩🇪 
 
+Visit my [Page@Uni Wuerzburg](https://www.informatik.uni-wuerzburg.de/datascience/staff/dulny/)
+
 Driven by curiosity 💡 and fueled by coffee ☕
 
 ## Research interests
