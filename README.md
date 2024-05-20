@@ -2,7 +2,7 @@
 
 PhD student in Computer Science 💻 and AI 🤖 from Germany 🇩🇪 
 
-Visit my [Homepage@Uni Wuerzburg](https://www.informatik.uni-wuerzburg.de/datascience/staff/dulny/)
+Visit my [Homepage@Uni Wuerzburg](https://www.informatik.uni-wuerzburg.de/datascience/staff/dulny/) ![Uni Logo](https://www.uni-wuerzburg.de/fileadmin/uniwue/download/staff_only/Corporate-Identity-Design/Logos/Vektorgrafiken/unilogo_mit_siegelbalken_Vektor_CMYK.eps)
 
 Driven by curiosity 💡 and fueled by coffee ☕
 
